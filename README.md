@@ -97,6 +97,7 @@ git merge
 
 
 13th Nov 2019
+
 git clone https://github.com/MythMithun/devops102batch.git  -- Clone a remote repository to local using http url
 git push origin -- Push local updates to remote repository
 git pull origin -- Pull latested updates from remote repository
@@ -110,4 +111,5 @@ git push -u remote1 master -- Pusing updates to a newly created repository
 
 
 15th Nov 2019
+
 git remote rm remote1
